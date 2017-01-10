@@ -2,6 +2,8 @@
 
 ##Angular App
 
+https://edta27.github.io/museum-app/
+
 This is a very sample app used to show people hours and rate to the musemum. 
 
 Sample Code
